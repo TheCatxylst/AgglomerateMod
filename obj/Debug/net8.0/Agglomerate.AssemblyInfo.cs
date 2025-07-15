@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Agglomerate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a185422f4275d58b788cca47dcb000544c966b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41aec8eef1359e4f374d1e5e1b0b0760fd78d31d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Agglomerate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Agglomerate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,11 +37,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\debon\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Agglomerate\\Agglomerate.csproj",
+      "projectUniqueName": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj",
       "projectName": "Agglomerate",
-      "projectPath": "C:\\Users\\debon\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Agglomerate\\Agglomerate.csproj",
+      "projectPath": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj",
       "packagesPath": "C:\\Users\\debon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\debon\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Agglomerate\\obj\\",
+      "outputPath": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,7 +101,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
