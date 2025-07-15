@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AjCp30IwX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\debon\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Agglomerate\\Agglomerate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debon\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

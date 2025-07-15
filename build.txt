@@ -1,0 +1,3 @@
+displayName = The Agglomerate Mod
+author = The Catxlyst
+version = 0.1

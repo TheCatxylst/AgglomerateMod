@@ -1,0 +1,23 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	zdsda: {
+		DisplayName: zdsda
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	ClockOfTime: {
+		DisplayName: Clock Of Time
+		Tooltip: ""
+	}
+
+	NecklaceOfLuck: {
+		DisplayName: Necklace Of Luck
+		Tooltip: ""
+	}
+}
