@@ -21,3 +21,10 @@ Items: {
 		Tooltip: ""
 	}
 }
+
+Buffs: {
+	EstrogenPillBuff: {
+		DisplayName: Euphoria
+		Description: You feel [TITLECARD]
+	}
+}

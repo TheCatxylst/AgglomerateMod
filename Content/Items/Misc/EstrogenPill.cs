@@ -16,7 +16,7 @@ namespace Agglomerate.Content.Items.Misc
             Item.value = Item.buyPrice(gold: 5);
             Item.rare = ItemRarityID.Pink;
 
-            Item.buffType = ModContent.BuffType<EstrogenPillBuff>();
+            Item.buffType = ModContent.BuffType<Content.Buffs.EstrogenPillBuff>();
             Item.buffTime = 3600; // 1 minute
 
             Item.useStyle = ItemUseStyleID.EatFood;
