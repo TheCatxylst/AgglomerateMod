@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 
 namespace Agglomerate.Content.Buffs //Don't copy paste like a dumbass
 {
-    public class EstrogenPillBuff : ModBuff //
+    public class EstrogenPillBuff : ModBuff
     {
         public override void SetStaticDefaults()
         {

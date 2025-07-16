@@ -2,7 +2,6 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
-using System.Security.Cryptography.X509Certificates;
 
 namespace Agglomerate.Content.Items.Misc
 { 
