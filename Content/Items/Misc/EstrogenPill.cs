@@ -1,11 +1,12 @@
 ﻿using Agglomerate.Content.Items.Ingredients;
+using Agglomerate.Content.Buffs;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
 namespace Agglomerate.Content.Items.Misc
 {
-    internal class EstrogenPill : ModItem
+    public class EstrogenPill : ModItem
     {
         public override void SetDefaults()
         {
@@ -16,11 +17,12 @@ namespace Agglomerate.Content.Items.Misc
             Item.value = Item.buyPrice(gold: 5);
             Item.rare = ItemRarityID.Pink;
 
-            Item.buffType = ModContent.BuffType<Content.Buffs.EstrogenPillBuff>();
+            Item.buffType = ModContent.BuffType<EstrogenPillBuff>();
             Item.buffTime = 3600; // 1 minute
 
             Item.useStyle = ItemUseStyleID.EatFood;
             Item.autoReuse = false;
+            Item.consumable = true;
             Item.useAnimation = 20;
             Item.useTime = 20;
             Item.UseSound = SoundID.Item58;

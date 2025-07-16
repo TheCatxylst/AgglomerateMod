@@ -18,5 +18,13 @@ namespace Agglomerate.Content.Items.Ingredients
 
             Item.useStyle = ItemUseStyleID.None;
         }
+
+        public override void AddRecipes()
+        {
+            Recipe recipe = CreateRecipe()
+                .AddIngredient(ItemID.Seashell, 3)
+                .AddTile(TileID.WorkBenches)
+                .Register();
+        }
     }
 }

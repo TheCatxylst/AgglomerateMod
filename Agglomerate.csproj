@@ -8,7 +8,9 @@
 		
 	</PropertyGroup>
 	<ItemGroup>
+	  <AdditionalFiles Remove="Content\Buffs\StaffOfLICCBuff.png" />
 	  <AdditionalFiles Remove="Content\Items\Misc\ClockOfTime.png" />
+	  <AdditionalFiles Remove="Content\Items\Weapons\Summon\StaffOfLICC.png" />
 	</ItemGroup>
 
 	<!-- References -->

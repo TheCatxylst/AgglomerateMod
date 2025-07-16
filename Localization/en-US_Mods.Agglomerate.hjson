@@ -13,11 +13,16 @@ Items: {
 
 	EstrogenPill: {
 		DisplayName: Estrogen Pill
-		Tooltip: "Estesdfsdf sdf"
+		Tooltip: Turns you into a cat (not physically but mentally)
 	}
 
 	Gelatin: {
 		DisplayName: Gelatin
+		Tooltip: A jelly type of substance
+	}
+
+	StaffOfLICC: {
+		DisplayName: Staff Of L I C C
 		Tooltip: ""
 	}
 }
@@ -27,4 +32,11 @@ Buffs: {
 		DisplayName: Euphoria
 		Description: You feel [TITLECARD]
 	}
+
+	StaffOfLICCBuff: {
+		DisplayName: Staff Of L I C C Buff
+		Description: Mods.Agglomerate.Buffs.StaffOfLICCBuff.Description
+	}
 }
+
+Projectiles.StaffOfLICCMinion.DisplayName: Staff Of L I C C Minion
