@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Content",
+    "\\Content\\Items",
+    "\\Content\\Items\\Accessories",
+    "\\Content\\Items\\Ingredients",
+    "\\Content\\Items\\Misc",
+    "\\Content\\Items\\Weapons",
+    "\\Content\\Items\\Weapons\\Summon",
+    "\\Content\\Projectiles",
+    "\\Content\\Projectiles\\Minions"
   ],
+  "SelectedNode": "\\Content\\Projectiles\\Minions\\StaffOfLICCMinion.cs",
   "PreviewInSolutionExplorer": false
 }
