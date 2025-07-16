@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj": {}
+    "C:\\Users\\debon\\Documents\\GitHub\\Agglomerate\\Agglomerate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj": {
+    "C:\\Users\\debon\\Documents\\GitHub\\Agglomerate\\Agglomerate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj",
+        "projectUniqueName": "C:\\Users\\debon\\Documents\\GitHub\\Agglomerate\\Agglomerate.csproj",
         "projectName": "Agglomerate",
-        "projectPath": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj",
+        "projectPath": "C:\\Users\\debon\\Documents\\GitHub\\Agglomerate\\Agglomerate.csproj",
         "packagesPath": "C:\\Users\\debon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\obj\\",
+        "outputPath": "C:\\Users\\debon\\Documents\\GitHub\\Agglomerate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

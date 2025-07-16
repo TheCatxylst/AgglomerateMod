@@ -15,7 +15,7 @@ namespace Agglomerate.Content.Items.Accessories
         {
             Item.width = 28;
             Item.height = 30;
-
+            Item.rare = ItemRarityID.Green;
             Item.accessory = true;
         }
 

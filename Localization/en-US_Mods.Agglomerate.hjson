@@ -1,23 +1,23 @@
 # This file will automatically update with entries for new content after a build and reload.
 
 Items: {
-	zdsda: {
-		DisplayName: zdsda
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
-	}
-
 	ClockOfTime: {
 		DisplayName: Clock Of Time
-		Tooltip: ""
+		Tooltip: Changes the time
 	}
 
 	NecklaceOfLuck: {
 		DisplayName: Necklace Of Luck
+		Tooltip: "[c/32FF82:Increases crit chance by 50%]"
+	}
+
+	EstrogenPill: {
+		DisplayName: Estrogen Pill
+		Tooltip: ""
+	}
+
+	Gelatin: {
+		DisplayName: Gelatin
 		Tooltip: ""
 	}
 }

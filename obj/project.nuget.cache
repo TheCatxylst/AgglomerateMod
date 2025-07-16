@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "itZjlteOPFU=",
+  "dgSpecHash": "YjRuZG1uNEo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\debon\\Documents\\GitHub\\AgglomerateMod\\Agglomerate.csproj",
+  "projectFilePath": "C:\\Users\\debon\\Documents\\GitHub\\Agglomerate\\Agglomerate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\debon\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
