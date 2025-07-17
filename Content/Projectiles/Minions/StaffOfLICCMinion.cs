@@ -55,7 +55,5 @@ namespace Agglomerate.Content.Projectiles.Minions
                 Projectile.timeLeft = 2;
             }
         }
-
-        private void AI
     }
 }
